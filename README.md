@@ -1,2 +1,2 @@
 # media
-image, sounds, etc
+images, sounds, etc
