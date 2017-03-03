@@ -1,2 +1,2 @@
 # media
-images, sounds, etc
+Assorted images, sounds, etc.
